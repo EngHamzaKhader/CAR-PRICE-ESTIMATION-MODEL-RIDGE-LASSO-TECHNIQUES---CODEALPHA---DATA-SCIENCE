@@ -1,1 +1,2 @@
 # CAR-PRICE-ESTIMATION-MODEL-RIDGE-LASSO-TECHNIQUES---CODEALPHA---DATA-SCIENCE
+I developed a car price estimation model using Ridge and Lasso regression techniques to predict prices based on various features. The project involved data pre-processing, feature engineering, and model training. Evaluated with RMSE and R² metrics, the Ridge model explained 98.69% of price variance. Insights on feature importance and visualizations reinforced model accuracy.
